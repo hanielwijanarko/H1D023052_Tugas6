@@ -33,10 +33,11 @@ Secara keseluruhan, data bergerak dari state Form (input) → Event Simpan (perh
 
 Berikut adalah tampilan form untuk menginput data mahasiswa.
 
-![Screenshot Tampilan Form Input Data](assets/Screenshot 2025-11-10 190218.png)
+![Screenshot Tampilan Form Input Data](Screenshot 2025-11-10 190218.png)
 
 ## 2. Tampilan Hasil Data Mahasiswa
 
 Berikut adalah tampilan hasil setelah data diinput dan diproses (termasuk perhitungan umur).
 
-![Screenshot Tampilan Hasil Data](assets/Screenshot 2025-11-10 190234.png)
+![Screenshot Tampilan Hasil Data](Screenshot 2025-11-10 190234.png)
+
